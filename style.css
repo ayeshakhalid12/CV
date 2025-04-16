@@ -1,0 +1,75 @@
+/* .box
+{
+    max-width:1000px;
+    border:50px;
+    /* padding:30px; */ 
+.head
+{
+    background-color:gainsboro;
+    padding:5px ; 
+}
+.head h1
+{
+    font-family: National Park;
+    font-size: 55px;
+    margin: 1px; 
+}
+.head p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    font-size: 29px;
+    text-align: center;
+    text-decoration: none;
+}
+.profile
+{
+    font-size: 30px;
+    color:purple;
+    font-family:Crimson Text;
+}
+.profile p
+{
+    font-size: 30px;
+    color:black;
+    font-family: cormorant;
+    margin-top: 1px;
+}
+.education
+{
+    font-size: 30px;
+    color:purple;
+    font-family:Crimson Text;
+}
+.education p
+{
+    font-size: 30px;
+    color:black;
+    font-family: cormorant;
+    margin-top: 1px;
+}
+.skill
+{
+    font-size: 30px;
+    color:purple;
+    font-family:Crimson Text;
+}
+.skill ul
+{
+    font-size: 30px;
+    color:black;
+    font-family: cormorant;
+    margin-top: 1px;
+}
+.project
+{
+    font-size: 30px;
+    color:purple;
+    font-family:Crimson Text;
+}
+.project ul
+{
+    font-size: 30px;
+    color:black;
+    font-family: cormorant;
+    margin-top: 1px;
+}
